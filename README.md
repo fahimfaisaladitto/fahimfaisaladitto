@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @fahimfaisaladitto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-fahimfaisaladitto/fahimfaisaladitto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi i am @fahimfaisaladitto, an average android user, Intersted in Making mod roms based MIUI/HyperOS. I developed some roms for Redmi Note 10S, Redmi Note 13 4g
+https://www.t.me/memeos_rosemary
+https://www.t.me/memeos_sapphire
 (https://www.facebook.com/fahimfaisaladitto)
