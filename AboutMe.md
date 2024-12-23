@@ -8,5 +8,3 @@ Peridot: https://www.t.me/memeos_peridot
 
 Owner: MemeOS Depth Wallpaper (https://www.t.me/memeos_depth)
 
-
-Me in telegram: https://www.t.me/fahimfaisaladitto
