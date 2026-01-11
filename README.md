@@ -18,5 +18,5 @@ I also develop LuCI applications and OpenWrt packages.
 - Web development
 
 ## Official Links
-- Website: https://fahimfaisaladitto.github.io
+- Website: https://fahimfaisaladitto.site
 - GitHub: https://github.com/fahimfaisaladitto
