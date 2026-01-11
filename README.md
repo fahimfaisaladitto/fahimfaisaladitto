@@ -1,16 +1,22 @@
-## Hi there 👋
+# Fahim Faisal Aditto
 
-<!--
-**fahimfaisaladitto/fahimfaisaladitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android ROM Developer and OpenWrt / LuCI package developer.
 
-Here are some ideas to get you started:
+## About Me
+I am the creator and maintainer of **MemeOS**, a custom HyperOS-based Android ROM project.
+I also develop LuCI applications and OpenWrt packages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **MemeOS** – Custom HyperOS-based Android ROM
+- **luci-app-netgraph** – Live bandwidth usage graph for OpenWrt
+- **luci-app-devicename** – Change connected device hostname via MAC
+
+## Skills
+- Android ROM development
+- OpenWrt & LuCI (Lua, JavaScript)
+- Linux systems
+- Web development
+
+## Official Links
+- Website: https://fahimfaisaladitto.github.io
+- GitHub: https://github.com/fahimfaisaladitto
